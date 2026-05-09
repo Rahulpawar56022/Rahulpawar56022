@@ -34,9 +34,6 @@
         I enjoy working on REST APIs, JWT authentication, role-based access control, AI-powered features, database-backed applications, and clean interfaces that are practical and easy to use.
       </p>
     </td>
-    <td width="42%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rahulpawar56022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=E5E7EB&rank_icon=github" alt="Rahul Pawar GitHub stats" />
-    </td>
   </tr>
 </table>
 
